@@ -1,0 +1,125 @@
+gid,date,game,players,winner
+1,26/9/20,Lhama,David,Isela
+1,26/9/20,Lhama,Arturo,Isela
+1,26/9/20,Lhama,Isela,Isela
+2,26/9/20,Lhama,David,Isela
+2,26/9/20,Lhama,Arturo,Isela
+2,26/9/20,Lhama,Isela,Isela
+3,26/9/20,Lhama,David,David
+3,26/9/20,Lhama,Arturo,David
+3,26/9/20,Lhama,Isela,David
+4,26/9/20,Lhama,David,David
+4,26/9/20,Lhama,Arturo,David
+4,26/9/20,Lhama,Isela,David
+5,26/9/20,Lhama,David,Arturo
+5,26/9/20,Lhama,Arturo,Arturo
+5,26/9/20,Lhama,Isela,Arturo
+6,26/9/20,Lhama,David,Isela
+6,26/9/20,Lhama,Arturo,Isela
+6,26/9/20,Lhama,Isela,Isela
+7,26/9/20,Port Royal,David,Isela
+7,26/9/20,Port Royal,Arturo,Isela
+7,26/9/20,Port Royal,Isela,Isela
+8,26/9/20,Port Royal,David,David
+8,26/9/20,Port Royal,Arturo,David
+8,26/9/20,Port Royal,Isela,David
+9,26/9/20,Port Royal,David,Arturo
+9,26/9/20,Port Royal,Arturo,Arturo
+9,26/9/20,Port Royal,Isela,Arturo
+10,26/9/20,Munchkin,David,Isela
+10,26/9/20,Munchkin,Arturo,Isela
+10,26/9/20,Munchkin,Isela,Isela
+11,26/9/20,Munchkin,David,Arturo
+11,26/9/20,Munchkin,Arturo,Arturo
+11,26/9/20,Munchkin,Isela,Arturo
+12,26/9/20,Munchkin,David,Arturo
+12,26/9/20,Munchkin,Arturo,Arturo
+12,26/9/20,Munchkin,Isela,Arturo
+13,26/9/20,Encantados,David,David
+13,26/9/20,Encantados,Arturo,David
+13,26/9/20,Encantados,Isela,David
+14,26/9/20,Encantados,David,Arturo
+14,26/9/20,Encantados,Arturo,Arturo
+14,26/9/20,Encantados,Isela,Arturo
+15,26/9/20,Saboteur,David,Arturo
+15,26/9/20,Saboteur,Arturo,Arturo
+15,26/9/20,Saboteur,Isela,Arturo
+16,26/9/20,Saboteur,David,Arturo
+16,26/9/20,Saboteur,Arturo,Arturo
+16,26/9/20,Saboteur,Isela,Arturo
+17,9/10/20,Lhama,David,David
+17,9/10/20,Lhama,Arturo,David
+17,9/10/20,Lhama,Isela,David
+18,9/10/20,Lhama,David,David
+18,9/10/20,Lhama,Arturo,David
+18,9/10/20,Lhama,Isela,David
+19,9/10/20,Lhama,David,David
+19,9/10/20,Lhama,Arturo,David
+19,9/10/20,Lhama,Isela,David
+20,9/10/20,Port Royal,David,David
+20,9/10/20,Port Royal,Arturo,David
+20,9/10/20,Port Royal,Isela,David
+21,9/10/20,Port Royal,David,Arturo
+21,9/10/20,Port Royal,Arturo,Arturo
+21,9/10/20,Port Royal,Isela,Arturo
+22,9/10/20,Port Royal,David,Arturo
+22,9/10/20,Port Royal,Arturo,Arturo
+22,9/10/20,Port Royal,Isela,Arturo
+23,9/10/20,Bohnanza,David,Isela
+23,9/10/20,Bohnanza,Arturo,Isela
+23,9/10/20,Bohnanza,Isela,Isela
+24,9/10/20,Encantados,Adriano,Arturo
+24,9/10/20,Encantados,David,Arturo
+24,9/10/20,Encantados,Arturo,Arturo
+24,9/10/20,Encantados,Isela,Arturo
+25,9/10/20,Lhama,David,David
+25,9/10/20,Lhama,Adriano,David
+25,9/10/20,Lhama,Arturo,David
+25,9/10/20,Lhama,Isela,David
+26,9/10/20,Lhama,David,David
+26,9/10/20,Lhama,Adriano,David
+26,9/10/20,Lhama,Arturo,David
+26,9/10/20,Lhama,Isela,David
+27,9/10/20,Ninja Camp,David,Arturo
+27,9/10/20,Ninja Camp,Adriano,Arturo
+27,9/10/20,Ninja Camp,Arturo,Arturo
+27,9/10/20,Ninja Camp,Isela,Arturo
+28,9/10/20,Bohnanza,David,Arturo
+28,9/10/20,Bohnanza,Adriano,Arturo
+28,9/10/20,Bohnanza,Arturo,Arturo
+28,9/10/20,Bohnanza,Isela,Arturo
+29,9/10/20,Saboteur,David,Arturo
+29,9/10/20,Saboteur,Adriano,Arturo
+29,9/10/20,Saboteur,Arturo,Arturo
+29,9/10/20,Saboteur,Isela,Arturo
+30,9/10/20,Munchkin,David,Isela
+30,9/10/20,Munchkin,Adriano,Isela
+30,9/10/20,Munchkin,Arturo,Isela
+30,9/10/20,Munchkin,Isela,Isela
+31,10/10/20,Lhama,Arturo,Adriano
+31,10/10/20,Lhama,Adriano,Adriano
+31,10/10/20,Lhama,Isela,Adriano
+32,10/10/20,Lhama,Arturo,Adriano
+32,10/10/20,Lhama,Adriano,Adriano
+32,10/10/20,Lhama,Isela,Adriano
+33,10/10/20,Lhama,Arturo,Arturo
+33,10/10/20,Lhama,Adriano,Arturo
+33,10/10/20,Lhama,Isela,Arturo
+34,10/10/20,Lhama,Arturo,Isela
+34,10/10/20,Lhama,Adriano,Isela
+34,10/10/20,Lhama,Isela,Isela
+35,10/10/20,Encantados,Arturo,Arturo
+35,10/10/20,Encantados,Adriano,Arturo
+35,10/10/20,Encantados,Isela,Arturo
+36,10/10/20,Port Royal,Arturo,Arturo
+36,10/10/20,Port Royal,Adriano,Arturo
+36,10/10/20,Port Royal,Isela,Arturo
+37,10/10/20,Port Royal,Arturo,Arturo
+37,10/10/20,Port Royal,Adriano,Arturo
+37,10/10/20,Port Royal,Isela,Arturo
+38,10/10/20,Bohnanza,Arturo,Isela
+38,10/10/20,Bohnanza,Adriano,Isela
+38,10/10/20,Bohnanza,Isela,Isela
+39,10/10/20,Bohnanza,Arturo,Isela
+39,10/10/20,Bohnanza,Adriano,Isela
+39,10/10/20,Bohnanza,Isela,Isela
