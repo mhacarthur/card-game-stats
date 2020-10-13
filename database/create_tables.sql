@@ -1,0 +1,40 @@
+CREATE TABLE IF NOT EXISTS Player (
+    id SERIAL NOT NULL,
+    name VARCHAR(100) NOT NULL,
+    created_on TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+    CONSTRAINT player_pk PRIMARY KEY (id)
+);
+
+CREATE TABLE IF NOT EXISTS Game (
+    id SERIAL NOT NULL,
+    name VARCHAR(100) NOT NULL,
+    type VARCHAR(30) NOT NULL,
+    created_on TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+    CONSTRAINT game_pk PRIMARY KEY (id)
+);
+
+CREATE TABLE IF NOT EXISTS Match (
+    id SERIAL NOT NULL,
+    game INT NOT NULL,
+    winner INT NOT NULL,
+    date TIMESTAMP NOT NULL,
+    created_on TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+    CONSTRAINT match_pk PRIMARY KEY (id),
+    CONSTRAINT match_game_fk FOREIGN KEY (game) REFERENCES Game(id),
+    CONSTRAINT match_winner_fk FOREIGN KEY (winner) REFERENCES Player(id)
+);
+
+CREATE TABLE IF NOT EXISTS PlayerMatch (
+    id SERIAL NOT NULL,
+    player INT NOT NULL,
+    match INT NOT NULL,
+    created_on TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+    CONSTRAINT player_match_pk PRIMARY KEY (id),
+    CONSTRAINT player_fk FOREIGN KEY (player) REFERENCES Player(id),
+    CONSTRAINT match_fk FOREIGN KEY (match) REFERENCES Match(id)
+);
+
