@@ -7,5 +7,10 @@ Statitistics of matches card games
   <img src="https://github.com/mhacarthur/card-game-stats/tree/main/fig/general_statistics.png" alt="Size limit CLI" width="300">
 </p>
 
+<figure class="image">
+  <img src="https://github.com/mhacarthur/card-game-stats/tree/main/fig/general_statistics.png" alt="test">
+  <figcaption>{{ include.description }}</figcaption>
+</figure>
+
 ![Eficiencia por Jogo](https://github.com/mhacarthur/card-game-stats/tree/main/fig/eficiencia_por_jogo.png?raw=true)
 
