@@ -1,7 +1,7 @@
 # card-game-stats
 Statitistics of matches card games
 
-![General Statistics](https://github.com/mhacarthur/card-game-stats/tree/main/fig/general_statistics.png?raw=true)
+![General Statistics](./tree/main/fig/general_statistics.png?raw=true)
 
 <p align="center">
   <img src="https://github.com/mhacarthur/card-game-stats/tree/main/fig/general_statistics.png" alt="Size limit CLI" width="300">
