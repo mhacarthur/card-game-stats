@@ -65,11 +65,11 @@ game_names = ['Bohnanza', 'Encantados', 'Lhama', 'Munchkin',
 player_names = {name: fk+1 for fk, name in enumerate(player_names)}
 game_names = {name: fk+1 for fk, name in enumerate(game_names)}
 
-for game in games:
+for match, game in enumerate(games):
     d = "%s 00:00:00"%'-'.join(game['date'].split('-')[::-1])
     g = game_names[game['game']]
     w = player_names[game['winner']]
 #     print("INSERT INTO Match (date, game, winner) VALUES (\'%s\', %s, %s);"%(d, g, w))
     for player in game['players']:
         p = player_names[player]
-        print("INSERT INTO PlayerMatch (player, match) VALUES (%d, %d);"%(p, g))
+        print("INSERT INTO PlayerMatch (player, match) VALUES (%d, %d);"%(p, match+1))
