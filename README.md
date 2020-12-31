@@ -1,8 +1,8 @@
 # card-game-stats
 Statitistics of matches card games
-<div style="align:center">
+<center>
   <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/Eficiencia_por_jogo_table.png" alt="Tabela estatísticas">
-</div>
+</center>
 
 ![General Statistics](https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/general_statistics.png)
 
