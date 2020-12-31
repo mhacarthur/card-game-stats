@@ -1,7 +1,6 @@
 # card-game-stats
 Statitistics of matches card games
-
-![Tabela estaditicas](https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/Eficiencia_por_jogo_table.png)
+<center>![Tabela estaditicas](https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/Eficiencia_por_jogo_table.png)</center>
 
 ![General Statistics](https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/general_statistics.png)
 
