@@ -1,13 +1,22 @@
 # card-game-stats
 Statitistics of matches card games
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/Eficiencia_por_jogo_table.png" alt="Tabela estatísticas">
+  <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/Eficiencia_por_jogo_table.png" alt="Tabela estatísticas" />
 </div>
 
-![General Statistics](https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/general_statistics.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/general_statistics.png" alt="General Statistics" />
+</div>
 
-![Eficiencia por Jogo](https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/eficiencia_por_jogo.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/eficiencia_por_jogo.png" alt="Eficiência por jogo" />
+</div>
 
-![Eficiencia cada 10](https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/eficiencia_cada_10.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/eficiencia_cada_10.png" alt="Eficiencia cada 10" />
+</div>
 
-![Eficiencia cada 15](https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/eficiencia_cada_15.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/eficiencia_cada_15.png", alt="Eficiencia cada 15" />
+</div>
