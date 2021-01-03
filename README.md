@@ -20,3 +20,7 @@ Statitistics of matches card games
 <div align="center">
   <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/eficiencia_cada_15.png", alt="Eficiencia cada 15" />
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/Total_partidas.png", alt="Total de partidas" />
+</div>
