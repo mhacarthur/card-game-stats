@@ -22,8 +22,9 @@ Statitistics of matches card games
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/partidas_dia.png", alt="Partidas por dia" />
+  <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/partidas_mes.png", alt="Partidas por mes" />
 </div>
+<div align="center">
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/Total_partidas.png", alt="Total de partidas" />
