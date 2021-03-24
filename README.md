@@ -10,6 +10,10 @@ Statitistics of matches card games
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/pieplot_victorias.png" alt="Pie Plot" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/eficiencia_por_jogo.png" alt="Eficiência por jogo" />
 </div>
 
