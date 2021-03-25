@@ -18,6 +18,10 @@ Statitistics of matches card games
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/rachas_max.png", alt="Racha maxima" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/mhacarthur/card-game-stats/main/fig/eficiencia_cada_10.png" alt="Eficiencia cada 10" />
 </div>
 
